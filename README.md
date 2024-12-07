@@ -19,11 +19,11 @@ A Flutter-based e-commerce app with user authentication (login/signup) and produ
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ecommerce-app.git
-   cd ecommerce-app
+   cd app
    ```
 2. Create a new Flutter project (if not already created):
    ```bash
-   flutter create my_ecommerce_app
+   flutter create my_app
    ```
 3. Replace the contents of `lib/main.dart` with the provided Flutter code.
 4. Install dependencies:
@@ -39,7 +39,7 @@ A Flutter-based e-commerce app with user authentication (login/signup) and produ
 1. Clone the backend repository (or navigate to the backend folder):
    ```bash
    git clone https://github.com/your-username/ecommerce-backend.git
-   cd ecommerce-backend
+   cd backend
    ```
 2. Install dependencies:
    ```bash
