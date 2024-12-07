@@ -19,7 +19,7 @@ A Flutter-based e-commerce app with user authentication (login/signup) and produ
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ecommerce-app.git
-   cd app
+   cd my_app
    ```
 2. Create a new Flutter project (if not already created):
    ```bash
